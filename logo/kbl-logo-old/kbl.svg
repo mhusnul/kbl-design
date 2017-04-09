@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="kbl.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3919"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5305008"
+     inkscape:cx="270.642"
+     inkscape:cy="772.43244"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="553"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="596.36881,620.86501"
+       id="guide3066" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#f39c12;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none"
+       d="m 249.94026,185.03281 c 2.6441,-7.2182 13.87658,-18.81486 25.92344,-12.75289 9.60287,4.83216 13.10399,13.30586 12.68264,22.66467 -3.85368,9.17651 -4.83687,13.36356 -13.77739,15.5582 15.89467,-1.07067 28.19565,5.94735 34.79573,19.17268 3.66814,7.3503 3.83167,16.81167 -1.80939,28.27652 -6.93401,14.09265 -27.73832,17.53199 -54.81694,14.68278 -5.47554,-27.41811 -7.67785,-66.58964 -2.99809,-87.60196 z"
+       id="rect3080"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsscc" />
+    <path
+       style="fill:none;stroke:#f39c12;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 288.09401,202.32306 14.81446,-6.7461 -15.11624,-13.54307"
+       id="path3857"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:110.68471527px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Sans"
+       x="148.80214"
+       y="278.63715"
+       id="text3859"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3861"
+         x="148.80214"
+         y="278.63715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2c3e50;font-family:JungleFever;-inkscape-font-specification:JungleFever">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:107.50550842px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7f8c8d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="144.13354"
+       y="312.77658"
+       id="text3878"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3880"
+         x="144.13354"
+         y="312.77658"
+         style="font-size:21.50110054px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#7f8c8d;font-family:Merriweather Sans;-inkscape-font-specification:Merriweather Sans">Komunitas Belajar Linux</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3890"
+       y="278.63715"
+       x="324.5687"
+       style="font-size:110.68471527px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2c3e50;font-family:JungleFever;-inkscape-font-specification:JungleFever"
+         y="278.63715"
+         x="324.5687"
+         id="tspan3892"
+         sodipodi:role="line">L</tspan></text>
+  </g>
+</svg>

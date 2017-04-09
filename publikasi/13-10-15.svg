@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="13-10-15.svg">
+  <defs
+     id="defs4">
+    <filter
+       id="filter5147"
+       inkscape:label="Ink Blot"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       style="color-interpolation-filters:sRGB;">
+      <feGaussianBlur
+         id="feGaussianBlur5149"
+         result="blur1"
+         stdDeviation="0.4 0.64"
+         in="SourceGraphic" />
+      <feTurbulence
+         id="feTurbulence5151"
+         result="turbulence"
+         seed="11"
+         numOctaves="2"
+         baseFrequency="0.0489"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap5153"
+         result="map"
+         scale="0"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in2="turbulence"
+         in="blur1" />
+      <feGaussianBlur
+         id="feGaussianBlur5155"
+         result="blur2"
+         stdDeviation="1.66734"
+         in="map" />
+      <feComposite
+         id="feComposite5157"
+         result="fbSourceGraphic"
+         operator="over"
+         in2="map"
+         in="blur2" />
+      <feColorMatrix
+         id="feColorMatrix5159"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         result="blur1"
+         stdDeviation="0.4 0.64"
+         in="fbSourceGraphic"
+         id="feGaussianBlur5161" />
+      <feTurbulence
+         result="turbulence"
+         seed="11"
+         numOctaves="2"
+         baseFrequency="0.0489"
+         type="fractalNoise"
+         id="feTurbulence5163" />
+      <feDisplacementMap
+         result="map"
+         scale="0"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="blur1"
+         in2="turbulence"
+         id="feDisplacementMap5165" />
+      <feGaussianBlur
+         result="blur2"
+         stdDeviation="1.67"
+         in="map"
+         id="feGaussianBlur5167" />
+      <feComposite
+         result="composite"
+         operator="over"
+         in="blur2"
+         in2="map"
+         id="feComposite5169" />
+    </filter>
+    <filter
+       id="filter5528"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:menu-tooltip="Inky splotches underneath the object"
+       inkscape:menu="Protrusions"
+       inkscape:label="Ink Bleed">
+      <feGaussianBlur
+         id="feGaussianBlur5530"
+         stdDeviation="1.3"
+         in="SourceGraphic"
+         result="result1" />
+      <feTurbulence
+         id="feTurbulence5532"
+         baseFrequency="0.034"
+         numOctaves="4"
+         result="result0" />
+      <feDisplacementMap
+         id="feDisplacementMap5534"
+         in2="result0"
+         in="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="19.6"
+         result="result2" />
+      <feColorMatrix
+         id="feColorMatrix5536"
+         result="result3"
+         values="2 0 0 0 0 0 2 0 0 0 0 0 2 0 0 0 0 0 0.7 0" />
+      <feGaussianBlur
+         id="feGaussianBlur5538"
+         stdDeviation="1.1"
+         in="SourceGraphic"
+         result="result4" />
+      <feComposite
+         id="feComposite5540"
+         in2="result3"
+         in="result4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="545.48589"
+     inkscape:cy="374.19318"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:74.62778473px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="414.55603"
+       y="560.2644"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="414.55603"
+         y="560.2644"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'A.C.M.E. Secret Agent';-inkscape-font-specification:'A.C.M.E. Secret Agent';fill:#ffcc00;">KBL Bumigora</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4140"
+       y="475.08408"
+       x="491.77094"
+       style="font-style:normal;font-weight:normal;font-size:44.35496521px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Purisa;-inkscape-font-specification:Purisa"
+         y="475.08408"
+         x="491.77094"
+         id="tspan4142"
+         sodipodi:role="line">Pertemuan perdana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.07292175px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="479.26965"
+       y="620.35565"
+       id="text4144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         x="479.26965"
+         y="620.35565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Purisa;-inkscape-font-specification:Purisa">STMIK Bumigora Mataram</tspan></text>
+    <g
+       transform="translate(-584.24942,1886.3318)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4342" />
+    <g
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4160"
+       transform="translate(-585.72404,1883.3013)" />
+    <g
+       id="g4718"
+       style="font-style:normal;font-weight:normal;font-size:30.13392639px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-885.73935,1744.9104)" />
+    <g
+       id="g5730"
+       transform="matrix(1.9025473,0,0,1.9025473,1202.1484,-2835.8603)">
+      <g
+         id="g5732"
+         transform="translate(-601.43833,1862.587)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#2c3e50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 113.07965,41.70914 c 4.96027,56.63744 -5.53622,79.44834 -14.279679,102.38852 24.918869,-1.54165 47.730829,-1.30015 60.242439,-19.66359 11.42363,-16.76664 -2.69252,-43.55134 -20.06993,-56.33871 3.62454,-0.23033 9.51576,-3.6579 8.62004,-12.00133 -0.90125,-9.0583 -15.61778,-10.01457 -34.51287,-14.38489 z m 20.65405,31.30573 c 14.02749,12.7842 24.7993,28.65992 21.94195,40.626 -2.64565,11.07937 -19.20562,17.88519 -30.6128,18.87633 9.4188,-21.3253 9.3898,-35.57327 8.67085,-59.50233 z"
+           id="path5734" />
+        <path
+           style="fill:#e67e22;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 144.75982,68.45393 9.32226,1.08701 -4.94728,-5.87207 c -1.11475,1.43889 -1.57907,2.42822 -4.37498,4.78506 z"
+           id="path5736"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:86.98386383px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="g5738"
+         transform="translate(-585.72404,1883.3013)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 81.125714,106.9119 -9.742193,0 -15.831063,-27.225946 0,27.225946 -8.78537,0 0,-57.496331 8.78537,0 0,24.964369 15.831063,-24.964369 9.742193,0 -19.310418,27.399917 19.310418,30.096414 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zrnic;-inkscape-font-specification:Zrnic;fill:#2c3e50;fill-opacity:1"
+           id="path5740" />
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:86.98386383px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="g5742"
+         transform="translate(-585.72404,1883.3013)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 184.47257,106.9119 -25.48627,0 0,-57.844266 8.6114,0 0,52.886186 16.87487,0 0,4.95808 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Zrnic;-inkscape-font-specification:Zrnic;fill:#2c3e50;fill-opacity:1"
+           id="path5744" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 5;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 397.14285,662.3622 345.71429,558.07649 390,393.79077 l 347.13764,-15.22299 248.57669,8.08013 43.38957,209.59521 -53.38966,80.4048 L 490,675.21935 390,799.50506 430,668.07649 Z"
+       id="path5746"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+</svg>
