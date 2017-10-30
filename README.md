@@ -1,6 +1,6 @@
 # KBL Design
 
-Repositori kumpulan berkas desain KBL Bumigora.
+Repositori kumpulan berkas desain Komunitas Belajar Linux Bumigora.
 
 # Cara Kontribusi
 
