@@ -1,6 +1,7 @@
 # KBL Design
 
-Repositori kumpulan berkas desain KBL Bumigora.
+Repositori kumpulan berkas desain KBL Bumigora Dan Website
+
 
 # Cara Kontribusi
 
